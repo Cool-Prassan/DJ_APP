@@ -1,0 +1,21 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("https://previews.123rf.com/images/seamartini/seamartini1110/seamartini111000159/10942159-%E9%9F%B3%E6%A5%BD%E3%81%AE%E8%A6%81%E7%B4%A0%E3%82%92%E9%9F%B3%E6%A5%BD%E7%9A%84%E3%81%AA%E8%83%8C%E6%99%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%97%E3%81%A6%E3%83%8E%E3%83%BC%E3%83%88.jpg");
+    background-size: cover;
+}
+.heading {
+    width: 100%; 
+    box-shadow: 5px 5px 5px darkcyan; 
+    font-size: 30px; 
+}
+.note {
+    font-size: 18px; 
+}
+#song_name {
+    font-size: larger; 
+}
+canvas {
+    border-radius: 100px;
+    box-shadow: 7px 7px 7px darkcyan;
+    margin-top: 100px;
+}
